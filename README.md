@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am in my 2nd year student at Kırıkkale University, Department of Mathematics, <br>and I am studying online Computer Programming at Anadolu University.<br>I am also a Java - Html - CSS - JavaScript (Full Stack Developer) student at Bilge Adam Academy.
+ I am in my 3nd year student at Kırıkkale University, Department of Mathematics, <br>and I am studying online Computer Programming at Anadolu University.<br>I am also a Java - Html - CSS - JavaScript (Full Stack Developer) student at Bilge Adam Academy.
 
 
 ## 🌐 Socials:
