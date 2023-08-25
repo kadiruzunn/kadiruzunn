@@ -1,5 +1,32 @@
 # 💫 About Me:
- I am in my 3nd year student at Kırıkkale University, Department of Mathematics, <br>and I am studying online Computer Programming at Anadolu University.<br>I am also a Java - Html - CSS - JavaScript (Full Stack Developer) student at Bilge Adam Academy.
+ HARD SKILLS 
+-Designing and creating responsive web pages/websites using JAVA, HTML, CSS, BOOTSTRAP and JAVASCRIPT,
+-Using Spring Framework and Hibernate,
+-Coding desktop apps with java swing,
+-Coding the backend part by following the S.O.L.I.D principles,
+-Working on PostgreSQL database,
+-Installation and administration of version control systems like GIT, GitHub and GitLab,
+-Editing and designing photos with Adobe Photoshop,
+-Designing a website with Figma,
+-Ability to use office applications
+
+
+SOME OF MY WORKS:
+Web:
+-Student Management System Panel
+-Customer Management System Panel
+
+Java Swing:
+-University Management System 
+-Personnel Management System
+-Sports Club Management System
+-Kırıkkale University Midterm and Final Exam Calculator
+
+SOFT SKILLS:
+-Self-learning ability,
+-Outstanding interpersonal skills, self-motivated, solution oriented team player with an analytical thinking, ability to adapt to changes easily
+-Creative,
+-Keeping up with technology.
 
 
 ## 🌐 Socials:
